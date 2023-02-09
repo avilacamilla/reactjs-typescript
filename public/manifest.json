@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Aula de React com TS",
+  "name": "Aula de React com TS",
   "icons": [
     {
       "src": "favicon.ico",
